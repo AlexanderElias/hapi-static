@@ -1,0 +1,21 @@
+{
+  "name": "hapi-static",
+  "version": "1.0.0",
+  "description": "Hapi Static a simple static web server.",
+  "main": "server/server.js",
+  "dependencies": {
+    "hapi": "^13.3.0",
+    "inert": "^3.2.0"
+  },
+  "scripts": {
+    "test": "nodemon server/server.js",
+    "start": "node start server/server.js"
+  },
+  "keywords": [
+    "hapi",
+    "static",
+    "angular"
+  ],
+  "author": "Alexander Elias",
+  "license": "SEE LICENSE IN LICENSE"
+}

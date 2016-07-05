@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+# v0.0.0
+
+CACHE:
+
+# Static
+# /index.html
+# /index.js
+# /index.css
+
+NETWORK:
+*
+
+FALLBACK:
